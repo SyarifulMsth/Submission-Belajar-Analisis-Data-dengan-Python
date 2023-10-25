@@ -5,7 +5,7 @@ import streamlit as st
 from babel.numbers import format_currency
 
 
-st.set_page_config(page_title='E-Commerce Submission Project',page_icon='./icons/icons.png')
+st.set_page_config(page_title='E-Commerce Submission Project',page_icon='./Dashboard/icons/icons.png')
 
 # Penjelasan Project
 st.subheader('Project Details📝')
