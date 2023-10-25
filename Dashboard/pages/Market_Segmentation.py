@@ -6,7 +6,7 @@ from babel.numbers import format_currency
 sns.set(style='dark')
 
 # read dataset
-all_df = pd.read_csv("./dataset/all_data.csv")
+all_df = pd.read_csv("./Dashboard/dataset/all_data.csv")
 
 # Market Segmentation by Customers
 # Market Segmentation by Customers
